@@ -9,5 +9,7 @@ This data set contains customer level information for a telecom company. Various
 
 
 ## Pipelining
-It is one of the importat concepts that can be used in the dataset. When we perform operations like feature engineering, data preprocessing, Feature scaling the code becomes messy to handle this preblem we use the concept of pipelining. Machine learning pipeline is used to help automate machine learning workflows.
+It is one of the importat concepts that can be used in the dataset. When we perform operations like feature engineering, data preprocessing, Feature scaling the code becomes messy. If we want to handle this problem we use the concept of pipelining. Machine learning pipeline is used to help automate machine learning workflows.
+
+
 
